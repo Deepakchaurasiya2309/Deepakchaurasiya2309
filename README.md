@@ -1,9 +1,9 @@
 <!-- Animated banner (put a GIF link here) -->
-<h1 align="center">Welcome to my GitHub Profile 👋</h
+<h1 align="center">Welcome to my GitHub Profile 👋</h1>
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGVpbnE1M3I0M3JsODM1cHdibDB1bDB1YzVpZHl6amFzaW5kbm9odyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" 
     alt="Welcome to my GitHub profile" 
-    width="30%" 
+    width="25%" 
     />
  <h1 align="center">Hi, I'm Deepak Chaurasiya 👋</h1>
 </p>
@@ -21,20 +21,21 @@
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/Deepakchaurasiya2309&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Deepakchaurasiya2309&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/Deepakchaurasiya2309&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepakchaurasiya2309&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Deepakchaurasiya2309&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Deepakchaurasiya2309&layout=compact&theme=tokyonight" />
 </p>
+
+
 ## 🛠️ Skills and Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
