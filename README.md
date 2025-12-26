@@ -10,6 +10,7 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGVpbnE1M3I0M3JsODM1cHdibDB1bDB1YzVpZHl6amFzaW5kbm9odyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" 
     alt="Welcome to my GitHub profile" 
     width="25%" 
+    length="25%"
     />
   
   <h2 align="center">
@@ -52,3 +53,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<h2 align="center">Programming Love❤️❤️</h2
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDl6cnk1bjZ1ang2amRwanA0YnVkOGNzNjdtZnJzZnJjNXQ5OXZmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" 
+    alt="Welcome to my GitHub profile" 
+    width="25%"
+    length="25%"
+    />
