@@ -31,6 +31,9 @@
   <a href="https://github.com/Deepakchaurasiya2309">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://deepakchaurasiya653@gmail.com">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
 </p>
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
