@@ -1,8 +1,6 @@
 name: Generate Snake
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -20,8 +18,9 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Deploy Snake
+      - name: Push to output branch
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: output
           folder: dist
+          clean: true
