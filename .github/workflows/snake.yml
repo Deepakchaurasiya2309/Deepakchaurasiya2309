@@ -7,20 +7,16 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
-    permissions:
-      contents: write
-
     steps:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: Deepakchaurasiya2309
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            github-contribution-grid-snake.svg
 
-      - name: Push to output branch
-        uses: JamesIves/github-pages-deploy-action@v4
+      - name: Push Snake
+        uses: EndBug/add-and-commit@v9
         with:
-          branch: output
-          folder: dist
-          clean: true
+          add: "github-contribution-grid-snake.svg"
+          message: "Add snake animation"
