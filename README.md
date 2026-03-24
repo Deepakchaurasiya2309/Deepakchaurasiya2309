@@ -102,10 +102,10 @@
 
 <br/>
 
-<!-- 💡 Philosophy Card (DARK STYLE) -->
+<!-- 💡 Philosophy Card -->
 <h2 align="center">💡 Developer Philosophy</h2>
 
-<div align="center" style="background: linear-gradient(135deg, #0f172a, #1e293b); padding: 25px; border-radius: 15px; width: 80%; margin: auto; color: #e2e8f0; box-shadow: 0 4px 20px rgba(0,0,0,0.5); border: 1px solid rgba(255,255,255,0.1);">
+<div align="center" style="background:#0d1117; padding:25px; border-radius:15px; width:80%; margin:auto; color:#58a6ff; border:1px solid #30363d; box-shadow:0 0 20px rgba(88,166,255,0.4);">
 
 <p><i>"Consistency builds density, and dedication shapes mastery."</i></p>
 <p><i>"Code is not just an instrument — it's an art solving real-world problems."</i></p>
@@ -114,10 +114,10 @@
 
 <br/>
 
-<!-- 🌟 Fun Fact Card (DARK STYLE) -->
+<!-- 🌟 Fun Fact Card -->
 <h2 align="center">🌟 Fun Fact</h2>
 
-<div align="center" style="background: linear-gradient(135deg, #020617, #0f172a); padding: 20px; border-radius: 15px; width: 60%; margin: auto; color: #f1f5f9; box-shadow: 0 4px 20px rgba(0,0,0,0.6); border: 1px solid rgba(255,255,255,0.08);">
+<div align="center" style="background:#0d1117; padding:20px; border-radius:15px; width:60%; margin:auto; color:#f78166; border:1px solid #30363d; box-shadow:0 0 20px rgba(247,129,102,0.4);">
 
 ⚡ I turn late-night ideas + ☕ coffee into clean, scalable, production-ready code.
 
@@ -142,7 +142,7 @@
 
 <br/>
 
-<!-- 🧊 Developer Zone -->
+<!-- 🧊 Glassmorphism Section -->
 <h2 align="center">✨ Developer Zone</h2>
 
 <div align="center">
@@ -219,7 +219,7 @@ and high-performance applications
 <h2 align="center">🐍 Contribution Activity</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Deepakchaurasiya2309/Deepakchaurasiya2309/output/github-contribution-grid-snake.svg" />
 </p>
 
 <br/>
@@ -233,7 +233,7 @@ and high-performance applications
 
 <br/>
 
-<!-- 🌐 Portfolio -->
+<!-- 🌐 Portfolio Style Section -->
 <h2 align="center">🌐 Portfolio Snapshot</h2>
 
 <div align="center">
@@ -303,7 +303,7 @@ Building scalable, production-ready full-stack applications with modern tech.
 
 <br/>
 
-<!-- 🚀 Closing -->
+<!-- 🚀 Premium Closing -->
 <h2 align="center">🚀 Beyond Code</h2>
 
 <p align="center">
@@ -315,4 +315,8 @@ Building scalable, production-ready full-stack applications with modern tech.
 </p>
 
 <!-- 🙏 Footer -->
-<h3 align="center">✨ Thank You for Visiting ✨</h3>
+<div align="center" style="background:#0d1117; padding:20px; border-radius:12px; width:60%; margin:auto; color:#58a6ff; border:1px solid #30363d; box-shadow:0 0 20px rgba(88,166,255,0.4);">
+
+<h3>✨ Thank You for Visiting ✨</h3>
+
+</div>
