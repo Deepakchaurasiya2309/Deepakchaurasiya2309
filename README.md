@@ -66,6 +66,16 @@
   <img src="https://img.shields.io/badge/Groq-LPU%20Inference-F3CA3E?style=for-the-badge"/>
 </p>
 
+<h2 align="center">💻 Platforms</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea"/>
+  <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+</p>
+
 <h2 align="center">Programming Love❤️❤️</h2
 
 <p align="center">
