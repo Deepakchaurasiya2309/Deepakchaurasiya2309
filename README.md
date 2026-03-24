@@ -102,10 +102,10 @@
 
 <br/>
 
-<!-- 💡 Philosophy Card -->
+<!-- 💡 Philosophy Card (DARK STYLE) -->
 <h2 align="center">💡 Developer Philosophy</h2>
 
-<div align="center" style="background: linear-gradient(135deg, #36d1dc, #5b86e5); padding: 25px; border-radius: 15px; width: 80%; margin: auto; color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
+<div align="center" style="background: linear-gradient(135deg, #0f172a, #1e293b); padding: 25px; border-radius: 15px; width: 80%; margin: auto; color: #e2e8f0; box-shadow: 0 4px 20px rgba(0,0,0,0.5); border: 1px solid rgba(255,255,255,0.1);">
 
 <p><i>"Consistency builds density, and dedication shapes mastery."</i></p>
 <p><i>"Code is not just an instrument — it's an art solving real-world problems."</i></p>
@@ -114,10 +114,10 @@
 
 <br/>
 
-<!-- 🌟 Fun Fact Card -->
+<!-- 🌟 Fun Fact Card (DARK STYLE) -->
 <h2 align="center">🌟 Fun Fact</h2>
 
-<div align="center" style="background: linear-gradient(135deg, #ff512f, #dd2476); padding: 20px; border-radius: 15px; width: 60%; margin: auto; color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
+<div align="center" style="background: linear-gradient(135deg, #020617, #0f172a); padding: 20px; border-radius: 15px; width: 60%; margin: auto; color: #f1f5f9; box-shadow: 0 4px 20px rgba(0,0,0,0.6); border: 1px solid rgba(255,255,255,0.08);">
 
 ⚡ I turn late-night ideas + ☕ coffee into clean, scalable, production-ready code.
 
@@ -142,7 +142,7 @@
 
 <br/>
 
-<!-- 🧊 Glassmorphism Section -->
+<!-- 🧊 Developer Zone -->
 <h2 align="center">✨ Developer Zone</h2>
 
 <div align="center">
@@ -215,7 +215,7 @@ and high-performance applications
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6a00,50:ff7e5f,100:feb47b&height=100&section=footer"/>
 </p>
 
-<!-- 🐍 Snake Contribution Graph -->
+<!-- 🐍 Contribution Graph -->
 <h2 align="center">🐍 Contribution Activity</h2>
 
 <p align="center">
@@ -233,7 +233,7 @@ and high-performance applications
 
 <br/>
 
-<!-- 🌐 Portfolio Style Section -->
+<!-- 🌐 Portfolio -->
 <h2 align="center">🌐 Portfolio Snapshot</h2>
 
 <div align="center">
@@ -303,7 +303,7 @@ Building scalable, production-ready full-stack applications with modern tech.
 
 <br/>
 
-<!-- 🚀 Premium Closing -->
+<!-- 🚀 Closing -->
 <h2 align="center">🚀 Beyond Code</h2>
 
 <p align="center">
