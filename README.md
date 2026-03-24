@@ -309,7 +309,14 @@ Building scalable, production-ready full-stack applications with modern tech.
 <p align="center">
   <i>"I don't just build projects — I build systems that make an impact."</i>
 </p>
+<!-- 💡 Developer Quote -->
+<h2 align="center">💡 Developer Quote</h2>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=Code+is+like+poetry+written+in+logic;Build+systems+that+make+impact;Consistency+beats+talent+every+time;Think.+Build.+Scale." />
+</p>
+
+<br/>
 <p align="center">
   <i>"Always evolving. Always building."</i>
 </p>
