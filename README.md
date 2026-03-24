@@ -90,7 +90,7 @@
 <!-- 🚀 Latest Work Card -->
 <h2 align="center">🚀 Latest Work</h2>
 
-<div align="center" style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding: 20px; border-radius: 15px; width: 80%; margin: auto; color: white;">
+<div align="center" style="background: linear-gradient(135deg, #ff7e5f, #feb47b); padding: 25px; border-radius: 15px; width: 80%; margin: auto; color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
 
 <ul align="left">
   <li>🧠 Developed deep learning projects solving real-world problems</li>
@@ -105,7 +105,7 @@
 <!-- 💡 Philosophy Card -->
 <h2 align="center">💡 Developer Philosophy</h2>
 
-<div align="center" style="background: linear-gradient(135deg, #1d2b64, #f8cdda); padding: 20px; border-radius: 15px; width: 80%; margin: auto;">
+<div align="center" style="background: linear-gradient(135deg, #36d1dc, #5b86e5); padding: 25px; border-radius: 15px; width: 80%; margin: auto; color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
 
 <p><i>"Consistency builds density, and dedication shapes mastery."</i></p>
 <p><i>"Code is not just an instrument — it's an art solving real-world problems."</i></p>
@@ -117,7 +117,7 @@
 <!-- 🌟 Fun Fact Card -->
 <h2 align="center">🌟 Fun Fact</h2>
 
-<div align="center" style="background: linear-gradient(135deg, #42275a, #734b6d); padding: 20px; border-radius: 15px; width: 60%; margin: auto; color: white;">
+<div align="center" style="background: linear-gradient(135deg, #ff512f, #dd2476); padding: 20px; border-radius: 15px; width: 60%; margin: auto; color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
 
 ⚡ I turn late-night ideas + ☕ coffee into clean, scalable, production-ready code.
 
@@ -125,21 +125,19 @@
 
 <br/>
 
-
 <p align="center">
   Thanks for stopping by!  
   Let’s build something impactful together 🚀
 </p>
 
-
 <!-- 🌈 Animated Gradient Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header&text=Welcome%20to%20My%20Profile&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7e5f,50:feb47b,100:ff6a00&height=120&section=header&text=Welcome%20to%20My%20Profile&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- 👀 Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Deepakchaurasiya2309&label=Profile+Views&color=58A6FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Deepakchaurasiya2309&label=Profile+Views&color=ff6a00&style=for-the-badge" />
 </p>
 
 <br/>
@@ -154,13 +152,12 @@
 <td>
 
 <div style="
-backdrop-filter: blur(10px);
-background: rgba(255, 255, 255, 0.05);
+background: linear-gradient(135deg, #1f4037, #99f2c8);
 border-radius: 15px;
 padding: 20px;
 width: 300px;
-color: white;
-border: 1px solid rgba(255,255,255,0.1);
+color: #000000;
+box-shadow: 0 4px 15px rgba(0,0,0,0.2);
 ">
 
 <h3 align="center">⚡ Focus</h3>
@@ -176,13 +173,12 @@ Exploring AI + real-world applications
 <td>
 
 <div style="
-backdrop-filter: blur(10px);
-background: rgba(255, 255, 255, 0.05);
+background: linear-gradient(135deg, #f7971e, #ffd200);
 border-radius: 15px;
 padding: 20px;
 width: 300px;
-color: white;
-border: 1px solid rgba(255,255,255,0.1);
+color: #000000;
+box-shadow: 0 4px 15px rgba(0,0,0,0.2);
 ">
 
 <h3 align="center">🚀 Current Goal</h3>
@@ -216,9 +212,8 @@ and high-performance applications
 
 <!-- 🌌 Animated Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6a00,50:ff7e5f,100:feb47b&height=100&section=footer"/>
 </p>
-
 
 <!-- 🐍 Snake Contribution Graph -->
 <h2 align="center">🐍 Contribution Activity</h2>
@@ -233,7 +228,7 @@ and high-performance applications
 <h2 align="center">📊 3D Contribution Calendar</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepakchaurasiya2309 &theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepakchaurasiya2309&theme=tokyonight" />
 </p>
 
 <br/>
@@ -248,10 +243,11 @@ and high-performance applications
 <td width="300px">
 
 <div style="
-background: linear-gradient(135deg, #1f1c2c, #928dab);
+background: linear-gradient(135deg, #8e2de2, #4a00e0);
 padding: 20px;
 border-radius: 15px;
 color: white;
+box-shadow: 0 4px 15px rgba(0,0,0,0.2);
 ">
 
 <h3>🧠 AI Projects</h3>
@@ -266,10 +262,11 @@ Deep learning models focused on solving real-world problems using intelligent sy
 <td width="300px">
 
 <div style="
-background: linear-gradient(135deg, #134E5E, #71B280);
+background: linear-gradient(135deg, #11998e, #38ef7d);
 padding: 20px;
 border-radius: 15px;
-color: white;
+color: black;
+box-shadow: 0 4px 15px rgba(0,0,0,0.2);
 ">
 
 <h3>🎨 Frontend Work</h3>
@@ -284,10 +281,11 @@ Modern UI/UX designs with responsive and user-friendly web interfaces.
 <td width="300px">
 
 <div style="
-background: linear-gradient(135deg, #42275a, #734b6d);
+background: linear-gradient(135deg, #fc466b, #3f5efb);
 padding: 20px;
 border-radius: 15px;
 color: white;
+box-shadow: 0 4px 15px rgba(0,0,0,0.2);
 ">
 
 <h3>🌐 Full Stack</h3>
@@ -315,6 +313,6 @@ Building scalable, production-ready full-stack applications with modern tech.
 <p align="center">
   <i>"Always evolving. Always building."</i>
 </p>
+
 <!-- 🙏 Footer -->
 <h3 align="center">✨ Thank You for Visiting ✨</h3>
-
