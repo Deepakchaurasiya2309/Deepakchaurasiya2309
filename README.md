@@ -323,6 +323,22 @@ Building scalable, production-ready full-stack applications with modern tech.
 
 <!-- 🙏 Footer -->
 <div align="center" style="background:#0d1117; padding:20px; border-radius:12px; width:60%; margin:auto; color:#58a6ff; border:1px solid #30363d; box-shadow:0 0 20px rgba(88,166,255,0.4);">
+<!-- 💡 Developer Quote -->
+<h2 align="center">💡 Developer Quote</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<br/>
+<!-- 💡 Developer Quote -->
+<h2 align="center">💡 Developer Quote</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" />
+</p>
+
+<br/>
 
 <h3>✨ Thank You for Visiting ✨</h3>
 
