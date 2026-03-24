@@ -219,11 +219,10 @@ and high-performance applications
 <h2 align="center">🐍 Contribution Activity</h2>
 
 <p align="center">
-  <img src="https://github.com/Deepakchaurasiya2309/Deepakchaurasiya2309/blob/output/github-contribution-grid-snake.svg?raw=true" />
+  <img src="https://raw.githubusercontent.com/Deepakchaurasiya2309/Deepakchaurasiya2309/main/github-contribution-grid-snake.svg" />
 </p>
 
 <br/>
-
 <!-- 📊 3D Contribution Calendar -->
 <h2 align="center">📊 3D Contribution Calendar</h2>
 
