@@ -75,6 +75,9 @@
   <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
 </p>
+## LeetCode Progress
+
+[![💻 LeetCode Progress & Stats](https://leetcard.jacoblin.cool/https://leetcode.com/u/Deepak_653/?theme=dark&font=baloo&ext=contest)]
 
 <h2 align="center">Programming Love❤️❤️</h2
 
