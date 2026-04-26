@@ -73,9 +73,9 @@ Software Developer & AI Enthusiast<br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge"/>
- <img src="https://img.shields.io/badge/NLP-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-1572B6?style=for-the-badge&logo=NLP&logoColor=blue"/>
 <img src="https://img.shields.io/badge/Prompt%20Engineering-LLMs-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gen%20AI-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GenAI-1572B6?style=for-the-badge&logo=GenAI&logoColor=orange"/>
 </p>
 
 <br/>
