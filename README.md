@@ -13,10 +13,35 @@
     length="80%"
     />
   
-  <h2 align="center">
-  <span style="color:#4caf50;">Hi, I'm</span>
-  <span style="color:#e91e63;"> Deepak Chaurasiya</span>
-  </h2>
+ <div align="center">
+
+<!--  Gradient Name -->
+<h1>
+  <span style="background: linear-gradient(90deg, #4CAF50, #E91E63); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    Deepak Chaurasiya
+  </span>
+</h1>
+
+<!-- ✨ Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=4CAF50&center=true&vCenter=true&width=700&lines=Software+Developer;AI+Enthusiast;ML+Engineer;NLP+%7C+GenAI"/>
+
+<br><br>
+
+<!-- 🔲 Dotted Rectangular Info Box -->
+<div style="border:2px dashed #E91E63; padding:15px; border-radius:12px; width:70%; margin:auto;">
+
+<p>
+ Software Developer & AI Enthusiast<br><br>
+ Passionate about building efficient solutions by breaking complex problems into smaller, manageable parts<br><br>
+ Focused on Machine Learning, Deep Learning, NLP & Generative AI
+</p>
+
+</div>
+
+<!-- 🔹 Dotted Divider -->
+<hr style="width:50%; border:1.5px dashed #4CAF50;">
+
+</div>
 </p>
 
 <h2 align="center">🌐 Connect with Me 🌐</h2>
@@ -52,6 +77,9 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge"/>
+ <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-LLMs-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-Deep%20Learning-orange?style=for-the-badge"/>
 </p>
 
 <br/>
@@ -64,6 +92,15 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
   <img src="https://img.shields.io/badge/CrewAI-Multi--Agent-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Groq-LPU%20Inference-F3CA3E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge"/>
+
 </p>
 
 <h2 align="center">💻 Platforms</h2>
