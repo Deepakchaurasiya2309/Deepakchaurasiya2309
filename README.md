@@ -19,9 +19,10 @@
 
 <div style="border:2px dashed #E91E63; padding:18px; border-radius:12px; width:75%; margin:auto;">
 
-<!-- 🔥 Dot Matrix Style Name -->
-<h1 style="margin-bottom:10px; color:#ff4d4d;">
-⠙⠑⠑⠏⠁⠅ ⠉⠓⠁⠥⠗⠁⠎⠊⠽⠁
+<h1 style="margin-bottom:10px;">
+  <span style="background: linear-gradient(90deg, #ff4d4d, #e91e63); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    Deepak Chaurasiya
+  </span>
 </h1>
 
 <!-- ✨ Typing Animation -->
