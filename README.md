@@ -15,31 +15,26 @@
   
  <div align="center">
 
-<!--  Gradient Name -->
-<h1>
-  <span style="background: linear-gradient(90deg, #4CAF50, #E91E63); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-    Deepak Chaurasiya
-  </span>
+<div align="center">
+
+<div style="border:2px dashed #E91E63; padding:18px; border-radius:12px; width:75%; margin:auto;">
+
+<!-- 🔥 Dot Matrix Style Name -->
+<h1 style="margin-bottom:10px; color:#ff4d4d;">
+⠙⠑⠑⠏⠁⠅ ⠉⠓⠁⠥⠗⠁⠎⠊⠽⠁
 </h1>
 
 <!-- ✨ Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=4CAF50&center=true&vCenter=true&width=700&lines=Software+Developer;AI+Enthusiast;ML+Engineer;NLP+%7C+GenAI"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2600&pause=700&color=FF4D4D&center=true&vCenter=true&width=650&lines=Software+Developer;AI+Enthusiast;ML+Engineer;NLP+%7C+Generative+AI"/>
 
-<br><br>
-
-<!-- 🔲 Dotted Rectangular Info Box -->
-<div style="border:2px dashed #E91E63; padding:15px; border-radius:12px; width:70%; margin:auto;">
-
-<p>
- Software Developer & AI Enthusiast<br><br>
- Passionate about building efficient solutions by breaking complex problems into smaller, manageable parts<br><br>
- Focused on Machine Learning, Deep Learning, NLP & Generative AI
+<!-- 🔹 Info -->
+<p style="margin-top:12px; line-height:1.6;">
+🚀 Software Developer & AI Enthusiast<br>
+💡 Passionate about building efficient solutions by breaking complex problems into smaller, manageable parts<br>
+🧠 Focused on Machine Learning, Deep Learning, NLP & Generative AI
 </p>
 
 </div>
-
-<!-- 🔹 Dotted Divider -->
-<hr style="width:50%; border:1.5px dashed #4CAF50;">
 
 </div>
 </p>
