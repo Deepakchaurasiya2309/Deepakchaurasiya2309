@@ -30,9 +30,9 @@
 
 <!-- 🔹 Info -->
 <p style="margin-top:12px; line-height:1.6;">
-🚀 Software Developer & AI Enthusiast<br>
-💡 Passionate about building efficient solutions by breaking complex problems into smaller, manageable parts<br>
-🧠 Focused on Machine Learning, Deep Learning, NLP & Generative AI
+Software Developer & AI Enthusiast<br>
+ Passionate about building efficient solutions by breaking complex problems into smaller, manageable parts<br>
+ Focused on Machine Learning || Deep Learning || NLP & Gen AI
 </p>
 
 </div>
