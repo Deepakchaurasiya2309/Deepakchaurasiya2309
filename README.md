@@ -18,7 +18,7 @@
 <div style="border:2px dashed #E91E63; padding:18px; border-radius:12px; width:75%; margin:auto;">
 <h1 style="margin-bottom:10px;">
   <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=38&duration=4000&pause=1500&color=FEB47B&center=true&vCenter=true&width=800&lines=Deepak+Chaurasiya"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=38&duration=4000&pause=1500&color=DD2476&center=true&vCenter=true&width=800&lines=Deepak+Chaurasiya"/>
 </div>
 </h1>
 
