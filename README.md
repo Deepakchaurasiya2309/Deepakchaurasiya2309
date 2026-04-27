@@ -26,7 +26,7 @@
 </h1>
 
 <!-- ✨ Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=26&duration=3500&pause=1200&color=4CAF50&center=true&vCenter=true&width=750&lines=Software+Developer;Full+Stack+Developer;AI+Enthusiast;ML+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=26&duration=3500&pause=1200&color=FF4D4D&center=true&vCenter=true&width=750&lines=Software+Developer;Full+Stack+Developer;AI+Enthusiast;ML+Engineer"/>
 
 <!-- 🔹 Info -->
 <p style="margin-top:12px; line-height:1.6;">
