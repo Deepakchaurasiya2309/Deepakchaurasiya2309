@@ -25,7 +25,7 @@
   </span>
   <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=38&duration=4000&pause=1500&color=FF4D4D&center=true&vCenter=true&width=800&lines=Deepak+Chaurasiya"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=38&duration=4000&pause=1500&color=4CAF50&center=true&vCenter=true&width=800&lines=Deepak+Chaurasiya"/>
 
 </div>
 </h1>
