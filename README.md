@@ -1,7 +1,7 @@
 <!-- Animated banner (put a GIF link here) -->
 <p align="center">
  <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=28&duration=3500&pause=1200&color=8E44AD&center=true&vCenter=true&width=900&lines=WELCOME+TO+MY+GITHUB+PROFILE"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=28&duration=3500&pause=1200&color=FC466B&center=true&vCenter=true&width=900&lines=WELCOME+TO+MY+GITHUB+PROFILE"/>
 
 <br><br>
 
