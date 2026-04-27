@@ -19,6 +19,15 @@
 <h1 style="margin-bottom:10px;">
   <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=38&duration=4000&pause=1500&color=pink&center=true&vCenter=true&width=800&lines=Deepak+Chaurasiya"/>
+   <h1 style="margin-bottom:10px; font-weight:500;">
+  <span style="
+    background: linear-gradient(90deg, red, orange, yellow, green, blue, indigo, violet);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  ">
+    Deepak Chaurasiya
+  </span>
+</h1>
 </div>
 </h1>
 
