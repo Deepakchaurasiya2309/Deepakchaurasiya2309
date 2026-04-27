@@ -23,6 +23,11 @@
   <span style="background: linear-gradient(90deg, #ff4d4d, #e91e63); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
     Deepak Chaurasiya
   </span>
+  <div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=38&duration=4000&pause=1500&color=FF4D4D&center=true&vCenter=true&width=800&lines=Deepak+Chaurasiya"/>
+
+</div>
 </h1>
 
 <!-- ✨ Typing Animation -->
