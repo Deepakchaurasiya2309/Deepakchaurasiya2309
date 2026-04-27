@@ -20,14 +20,15 @@
 <div style="border:2px dashed #E91E63; padding:18px; border-radius:12px; width:75%; margin:auto;">
 
 <h1 style="margin-bottom:10px;">
-  <span style="background: linear-gradient(90deg, #ff4d4d, #e91e63); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-    Deepak Chaurasiya
-  </span>
   <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=38&duration=4000&pause=1500&color=4CAF50&center=true&vCenter=true&width=800&lines=Deepak+Chaurasiya"/>
 
 </div>
+  <span style="background: linear-gradient(90deg, #ff4d4d, #e91e63); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    Deepak Chaurasiya
+  </span>
+  
 </h1>
 
 <!-- ✨ Typing Animation -->
