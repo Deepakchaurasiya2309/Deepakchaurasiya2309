@@ -1,11 +1,7 @@
 <!-- Animated banner (put a GIF link here) -->
-
-
-
 <p align="center">
  <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=28&duration=3500&pause=1200&color=4CAF50&center=true&vCenter=true&width=900&lines=WELCOME+TO+MY+GITHUB+PROFILE"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=28&duration=3500&pause=1200&color=8E44AD&center=true&vCenter=true&width=900&lines=WELCOME+TO+MY+GITHUB+PROFILE"/>
 
 <br><br>
 
@@ -27,10 +23,11 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=38&duration=4000&pause=1500&color=4CAF50&center=true&vCenter=true&width=800&lines=Deepak+Chaurasiya"/>
 
 </div>
+ <h1 style="margin-bottom:10px; font-weight:500;">
   <span style="background: linear-gradient(90deg, #ff4d4d, #e91e63); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-    Deepak Chaurasiya
+    ( Deepak Chaurasiya )
   </span>
-  
+</h1>
 </h1>
 
 <!-- ✨ Typing Animation -->
