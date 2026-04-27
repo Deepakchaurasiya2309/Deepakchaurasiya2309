@@ -7,11 +7,17 @@
 
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGVpbnE1M3I0M3JsODM1cHdibDB1bDB1YzVpZHl6amFzaW5kbm9odyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" 
-    alt="Welcome to my GitHub profile" 
-    width="80%" 
-    length="80%"
-    />
+ <div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=28&duration=3500&pause=1200&color=4CAF50&center=true&vCenter=true&width=900&lines=WELCOME+TO+MY+GITHUB+PROFILE"/>
+
+<br><br>
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGVpbnE1M3I0M3JsODM1cHdibDB1bDB1YzVpZHl6amFzaW5kbm9odyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" 
+     alt="Welcome to my GitHub profile" 
+     width="80%"/>
+
+</div>
   
  <div align="center">
 
