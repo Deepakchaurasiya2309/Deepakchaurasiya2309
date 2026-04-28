@@ -268,8 +268,6 @@ width: 300px;
 color: #4CAF50;
 box-shadow: 0 4px 15px rgba(0,0,0,0.2);
 ">
-
-<h3 align="center">🚀 Current Goal</h3>
 </div>
 
 </td>
