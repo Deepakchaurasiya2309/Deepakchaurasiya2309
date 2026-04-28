@@ -294,17 +294,16 @@ box-shadow: 0 4px 15px rgba(0,0,0,0.2);
 
 <!-- 🔥 Premium Quote Section -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🧠_Mindset-8E44AD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🧠_Mindset-6A0DAD?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <i>"Discipline creates consistency, consistency builds greatness."</i>
+  <img src="https://img.shields.io/badge/💬_Discipline_creates_consistency,_consistency_builds_greatness.-1D976C?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <i>"Great developers don’t just write code — they design impact."</i>
+  <img src="https://img.shields.io/badge/💬_Great_developers_don’t_just_write_code_—_they_design_impact.-FF7E5F?style=for-the-badge"/>
 </p>
-
 <br/>
 
 <!-- 🌌 Animated Footer -->
