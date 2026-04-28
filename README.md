@@ -180,7 +180,51 @@ Software Developer & AI Enthusiast<br>
   Thanks for stopping by!  
   Let’s build something impactful together 🚀
 </p>
-<!-- 🌈 Animated Gradient Banner --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4D4D,100:FF0000&height=120&section=header&text=Welcome%20to%20My%20Profile&fontSize=30&fontColor=006400&animation=fadeIn" /> </p> <!-- 👀 Visitor Counter --> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Deepakchaurasiya2309&label=Profile+Views&color=FF4D4D&style=for-the-badge" /> </p> <br/> <!-- 🧊 Glassmorphism Section --> <h2 align="center">✨ Developer Zone</h2> <div align="center"> <table> <tr> <td> <div style=" background: linear-gradient(135deg, #1f4037, #99f2c8); border-radius: 15px; padding: 20px; width: 300px; color: #000000; box-shadow: 0 4px 15px rgba(0,0,0,0.2); "> <h3 align="center">⚡ Focus</h3> <p align="center"> Building scalable full-stack systems <br/> Exploring AI + real-world applications </p> </div>
+<!-- 🌈 Animated Gradient Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4D4D,100:FF0000&height=120&section=header&text=Welcome%20to%20My%20Profile&fontSize=30&fontColor=006400&animation=fadeIn" />
+</p>
+
+
+<!-- 👀 Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Deepakchaurasiya2309&label=Profile+Views&color=FF4D4D&style=for-the-badge" />
+</p>
+
+<br/>
+
+<!-- 🧊 Glassmorphism Section -->
+<h2 align="center" style="color:#8E44AD; font-weight:700;">✨ Developer Zone</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+<div style="
+background: linear-gradient(135deg, #1f4037, #99f2c8);
+border-radius: 15px;
+padding: 20px;
+width: 300px;
+color: #000000;
+box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+">
+
+<h3 align="center" style="color:#FF4D4D; font-weight:700;">⚡ Focus</h3>
+
+<p align="center">
+Building scalable full-stack systems <br/>
+Exploring AI + real-world applications
+</p>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 </td>
 </tr>
