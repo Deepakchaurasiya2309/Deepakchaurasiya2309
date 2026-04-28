@@ -270,11 +270,6 @@ box-shadow: 0 4px 15px rgba(0,0,0,0.2);
 ">
 
 <h3 align="center">🚀 Current Goal</h3>
-<p align="center">
-Mastering modern architectures <br/>
-and high-performance applications
-</p>
-
 </div>
 
 </td>
