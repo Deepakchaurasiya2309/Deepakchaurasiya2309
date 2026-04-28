@@ -194,7 +194,9 @@ Software Developer & AI Enthusiast<br>
 <br/>
 
 <!-- 🧊 Glassmorphism Section -->
-<h2 align="center" style="color:#064E3B; font-weight:700;">✨ Developer Zone</h2>
+<h2 align="center">
+  <span style="color:#8E44AD; font-weight:700;">✨ Developer Zone</span>
+</h2>
 
 <div align="center">
 
