@@ -194,9 +194,9 @@ Software Developer & AI Enthusiast<br>
 <br/>
 
 <!-- 🧊 Glassmorphism Section -->
-<h2 align="center">
-  <span style="color:#8E44AD; font-weight:700;">✨ Developer Zone</span>
-</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/✨_Developer_Zone-8E44AD?style=for-the-badge"/>
+</p>
 
 <div align="center">
 
