@@ -139,7 +139,9 @@ Software Developer & AI Enthusiast<br>
 </p>
 
 <!-- 🚀 Latest Work Card -->
-<h2 align="center">🚀 Latest Work</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀_Latest_Work-00C9FF?style=for-the-badge"/>
+</p>
 
 <div align="center" style="background: linear-gradient(135deg, #ff7e5f, #feb47b); padding: 25px; border-radius: 15px; width: 80%; margin: auto; color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
 
@@ -154,7 +156,9 @@ Software Developer & AI Enthusiast<br>
 <br/>
 
 <!-- 💡 Philosophy Card -->
-<h2 align="center">💡 Developer Philosophy</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/💡_Developer_Philosophy-F59E0B?style=for-the-badge"/>
+</p>
 
 <div align="center" style="background:#0d1117; padding:25px; border-radius:15px; width:80%; margin:auto; color:#58a6ff; border:1px solid #30363d; box-shadow:0 0 20px rgba(88,166,255,0.4);">
 
@@ -166,11 +170,15 @@ Software Developer & AI Enthusiast<br>
 <br/>
 
 <!-- 🌟 Fun Fact Card -->
-<h2 align="center">🌟 Fun Fact</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/🌟_Fun_Fact-FF69B4?style=for-the-badge"/>
+</p>
 
 <div align="center" style="background:#0d1117; padding:20px; border-radius:15px; width:60%; margin:auto; color:#f78166; border:1px solid #30363d; box-shadow:0 0 20px rgba(247,129,102,0.4);">
 
-⚡ I turn late-night ideas + ☕ coffee into clean, scalable, production-ready code.
+<p align="center">
+  <img src="https://img.shields.io/badge/⚡_Late-night_ideas_+_☕_coffee_→_clean,_scalable_code-6A0DAD?style=for-the-badge"/>
+</p>
 
 </div>
 
@@ -214,7 +222,9 @@ color: #064E3B;
 box-shadow: 0 4px 15px rgba(0,0,0,0.2);
 ">
 
-<h3 align="center" style="color:#FF4D4D; font-weight:700;">⚡ Focus</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/⚡_Focus-FF4D4D?style=for-the-badge"/>
+</p>
 
 <p align="center" style="color:#064E3B;">
 Building scalable full-stack systems <br/>
@@ -235,7 +245,9 @@ color: #6A0DAD;
 box-shadow: 0 4px 15px rgba(0,0,0,0.2);
 ">
 
-<h3 align="center" style="color:#4CAF50; font-weight:700;">🎯 Current Goal</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/🎯_Current_Goal-4CAF50?style=for-the-badge"/>
+</p>
 
 <p align="center" style="color:#E0F2FE;">
 Mastering full-stack development <br/>
@@ -281,7 +293,9 @@ box-shadow: 0 4px 15px rgba(0,0,0,0.2);
 <br/>
 
 <!-- 🔥 Premium Quote Section -->
-<h2 align="center">🧠 Mindset</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/🧠_Mindset-8E44AD?style=for-the-badge"/>
+</p>
 
 <p align="center">
   <i>"Discipline creates consistency, consistency builds greatness."</i>
