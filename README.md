@@ -180,12 +180,12 @@ Software Developer & AI Enthusiast<br>
 
 <!-- 🌈 Animated Gradient Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4D4D:ff7e5f,50:feb47b,100:ff6a00&height=120&section=header&text=Welcome%20to%20My%20Profile&fontSize=30&fontColor=0F172A&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4D4D:ff7e5f,50:feb47b,100:ff6a00&height=120&section=header&text=Welcome%20to%20My%20Profile&fontSize=30&fontColor=FF4D4D&animation=fadeIn" />
 </p>
 
 <!-- 👀 Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Deepakchaurasiya2309&label=Profile+Views&color=4CAF50&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Deepakchaurasiya2309&label=Profile+Views&color=FF4D4D&style=for-the-badge" />
 </p>
 
 <br/>
@@ -225,7 +225,7 @@ background: linear-gradient(135deg, #f7971e, #ffd200);
 border-radius: 15px;
 padding: 20px;
 width: 300px;
-color: #000000;
+color: #4CAF50;
 box-shadow: 0 4px 15px rgba(0,0,0,0.2);
 ">
 
@@ -379,6 +379,10 @@ Building scalable, production-ready full-stack applications with modern tech.
 
 <br/>
 
-<h3>✨ Thank You for Visiting ✨</h3>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=26&duration=4200&pause=1500&color=8B0000&center=true&vCenter=true&width=650&lines=✨+Thank+You+for+Visiting+✨"/>
+
+</div>
 
 </div>
