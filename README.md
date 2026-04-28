@@ -200,8 +200,9 @@ Software Developer & AI Enthusiast<br>
 
 <table>
 <tr>
-<td>
 
+<!-- ⚡ Focus -->
+<td>
 <div style="
 background: linear-gradient(135deg, #1f4037, #99f2c8);
 border-radius: 15px;
@@ -213,14 +214,35 @@ box-shadow: 0 4px 15px rgba(0,0,0,0.2);
 
 <h3 align="center" style="color:#FF4D4D; font-weight:700;">⚡ Focus</h3>
 
-<p align="center">
+<p align="center" style="color:#064E3B;">
 Building scalable full-stack systems <br/>
 Exploring AI + real-world applications
 </p>
 
 </div>
-
 </td>
+
+<!-- 🎯 Current Goal -->
+<td>
+<div style="
+background: linear-gradient(135deg, #141E30, #243B55);
+border-radius: 15px;
+padding: 20px;
+width: 300px;
+color: #ffffff;
+box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+">
+
+<h3 align="center" style="color:#4CAF50; font-weight:700;">🎯 Current Goal</h3>
+
+<p align="center" style="color:#E0F2FE;">
+Mastering full-stack development <br/>
+Building impactful AI-driven projects
+</p>
+
+</div>
+</td>
+
 </tr>
 </table>
 
