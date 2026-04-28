@@ -180,12 +180,12 @@ Software Developer & AI Enthusiast<br>
 
 <!-- 🌈 Animated Gradient Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50:ff7e5f,50:feb47b,100:ff6a00&height=120&section=header&text=Welcome%20to%20My%20Profile&fontSize=30&fontColor=0F172A&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4D4D:ff7e5f,50:feb47b,100:ff6a00&height=120&section=header&text=Welcome%20to%20My%20Profile&fontSize=30&fontColor=0F172A&animation=fadeIn" />
 </p>
 
 <!-- 👀 Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Deepakchaurasiya2309&label=Profile+Views&color=2E003E&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Deepakchaurasiya2309&label=Profile+Views&color=4CAF50&style=for-the-badge" />
 </p>
 
 <br/>
@@ -260,7 +260,7 @@ and high-performance applications
 
 <!-- 🌌 Animated Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF4444,50:ff7e5f,100:feb47b&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50:6A0DAD,50:ff7e5f,100:feb47b&height=100&section=footer"/>
 </p>
 
 <!-- 🐍 Contribution Graph -->
