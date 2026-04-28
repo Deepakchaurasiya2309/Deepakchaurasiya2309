@@ -194,7 +194,7 @@ Software Developer & AI Enthusiast<br>
 <br/>
 
 <!-- 🧊 Glassmorphism Section -->
-<h2 align="center" style="color:#8E44AD; font-weight:700;">✨ Developer Zone</h2>
+<h2 align="center" style="color:#064E3B; font-weight:700;">✨ Developer Zone</h2>
 
 <div align="center">
 
@@ -208,7 +208,7 @@ background: linear-gradient(135deg, #1f4037, #99f2c8);
 border-radius: 15px;
 padding: 20px;
 width: 300px;
-color: #000000;
+color: #064E3B;
 box-shadow: 0 4px 15px rgba(0,0,0,0.2);
 ">
 
@@ -229,7 +229,7 @@ background: linear-gradient(135deg, #141E30, #243B55);
 border-radius: 15px;
 padding: 20px;
 width: 300px;
-color: #ffffff;
+color: #6A0DAD;
 box-shadow: 0 4px 15px rgba(0,0,0,0.2);
 ">
 
