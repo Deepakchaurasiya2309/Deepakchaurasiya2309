@@ -122,13 +122,13 @@ Software Developer & AI Enthusiast<br>
 
 <!-- 🔥 Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=4CAF50&center=true&vCenter=true&width=650&lines=Hi+There!+👋;Welcome+to+My+GitHub+Profile;Building+Modern+Full+Stack+Apps;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+There!+👋;Welcome+to+My+GitHub+Profile;Building+Modern+Full+Stack+Apps;Always+Learning+🚀" />
 </p>
 
-<hr style="border:1px solid #334155;"/>
+<hr/>
 
-<!-- 📊 GitHub Stats -->
-<h2 align="center" style="color:#4CAF50;">📊 GitHub Insights</h2>
+<!-- 📊 GitHub Stats Card -->
+<h2 align="center">📊 GitHub Insights</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Deepakchaurasiya2309&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -138,10 +138,10 @@ Software Developer & AI Enthusiast<br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepakchaurasiya2309&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<!-- 🚀 Latest Work -->
-<h2 align="center" style="color:#8E44AD;">🚀 Latest Work</h2>
+<!-- 🚀 Latest Work Card -->
+<h2 align="center">🚀 Latest Work</h2>
 
-<div align="center" style="background: linear-gradient(135deg, #2E003E, #8E44AD); padding: 25px; border-radius: 15px; width: 85%; margin: auto; color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.4);">
+<div align="center" style="background: linear-gradient(135deg, #ff7e5f, #feb47b); padding: 25px; border-radius: 15px; width: 80%; margin: auto; color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
 
 <ul align="left">
   <li>🧠 Developed deep learning projects solving real-world problems</li>
@@ -150,7 +150,6 @@ Software Developer & AI Enthusiast<br>
 </ul>
 
 </div>
-
 </div>
 <br/>
 
@@ -182,11 +181,13 @@ Software Developer & AI Enthusiast<br>
   Let’s build something impactful together 🚀
 </p>
 
+<!-- 🔲 Background Wrapper -->
+<div style="background-color:#0F172A; padding:20px; border-radius:15px;">
+
 <!-- 🌈 Animated Gradient Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4D4D,100:FF0000&height=120&section=header&text=Welcome%20to%20My%20Profile&fontSize=30&fontColor=006400&animation=fadeIn" />
 </p>
-
 
 <!-- 👀 Visitor Counter -->
 <p align="center">
@@ -196,7 +197,7 @@ Software Developer & AI Enthusiast<br>
 <br/>
 
 <!-- 🧊 Glassmorphism Section -->
-<h2 align="center">✨ Developer Zone</h2>
+<h2 align="center" style="color:#ffffff;">✨ Developer Zone</h2>
 
 <div align="center">
 
@@ -218,6 +219,14 @@ box-shadow: 0 4px 15px rgba(0,0,0,0.2);
 Building scalable full-stack systems <br/>
 Exploring AI + real-world applications
 </p>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 </div>
 
