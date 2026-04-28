@@ -181,13 +181,11 @@ Software Developer & AI Enthusiast<br>
   Let’s build something impactful together 🚀
 </p>
 
-<!-- 🔲 Background Wrapper -->
-<div style="background-color:#0F172A; padding:20px; border-radius:15px;">
-
 <!-- 🌈 Animated Gradient Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4D4D,100:FF0000&height=120&section=header&text=Welcome%20to%20My%20Profile&fontSize=30&fontColor=006400&animation=fadeIn" />
 </p>
+
 
 <!-- 👀 Visitor Counter -->
 <p align="center">
@@ -197,7 +195,7 @@ Software Developer & AI Enthusiast<br>
 <br/>
 
 <!-- 🧊 Glassmorphism Section -->
-<h2 align="center" style="color:#ffffff;">✨ Developer Zone</h2>
+<h2 align="center">✨ Developer Zone</h2>
 
 <div align="center">
 
