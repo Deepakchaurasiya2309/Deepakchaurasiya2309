@@ -357,9 +357,8 @@ box-shadow: 0 4px 15px rgba(0,0,0,0.2);
   <img src="https://img.shields.io/badge/🧠_AI_Projects-8E44AD?style=for-the-badge"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/🤖_Deep_learning_models_for_real--world_intelligent_systems-0EA5E9?style=for-the-badge"/>
+I made Project like OncoFusionXAI , Lung Segmentation using Deep learning models focused on solving real-world problems using intelligent systems.
 </p>
-
 </div>
 
 </td>
@@ -378,7 +377,7 @@ box-shadow: 0 4px 15px rgba(0,0,0,0.2);
   <img src="https://img.shields.io/badge/🎨_Frontend_Work-FF7E5F?style=for-the-badge"/>
 </p>
 <p>
-Modern UI/UX designs with responsive and user-friendly web interfaces.
+ I am working on Kirana Express in which i have done frontend and working on backend part.
 </p>
 
 </div>
@@ -399,7 +398,7 @@ box-shadow: 0 4px 15px rgba(0,0,0,0.2);
   <img src="https://img.shields.io/badge/🌐_Full_Stack-4CAF50?style=for-the-badge"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/💻_Building_scalable_production--ready_full--stack_apps-16A34A?style=for-the-badge"/>
+  Building scalable, production-ready applications with modern tech.
 </p>
 
 </div>
