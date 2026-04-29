@@ -308,7 +308,7 @@ box-shadow: 0 4px 15px rgba(0,0,0,0.2);
 
 <!-- 🌌 Animated Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50:6A0DAD,50:ff7e5f,100:feb47b&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD:FF7E5F,50:FF0000,100:feb47b&height=100&section=footer"/>
 </p>
 
 <!-- 🐍 Contribution Graph -->
