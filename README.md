@@ -53,7 +53,9 @@ Software Developer & AI Enthusiast<br>
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=red" />
   </a>
 </p>
-<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/📊_GitHub_Stats-6366F1?style=for-the-badge"/>
+</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Deepakchaurasiya2309&theme=tokyonight&hide_border=false" />
 </p>
@@ -312,7 +314,9 @@ box-shadow: 0 4px 15px rgba(0,0,0,0.2);
 </p>
 
 <!-- 🐍 Contribution Graph -->
-<h2 align="center">🐍 Contribution Activity</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/🐍_Contribution_Activity-22C55E?style=for-the-badge"/>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Deepakchaurasiya2309/Deepakchaurasiya2309/main/github-contribution-grid-snake.svg" />
@@ -320,7 +324,9 @@ box-shadow: 0 4px 15px rgba(0,0,0,0.2);
 
 <br/>
 <!-- 📊 3D Contribution Calendar -->
-<h2 align="center">📊 3D Contribution Calendar</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/📊_3D_Contribution_Calendar-3B82F6?style=for-the-badge"/>
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepakchaurasiya2309&theme=tokyonight" />
@@ -329,7 +335,9 @@ box-shadow: 0 4px 15px rgba(0,0,0,0.2);
 <br/>
 
 <!-- 🌐 Portfolio Style Section -->
-<h2 align="center">🌐 Portfolio Snapshot</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/🌐_Portfolio_Snapshot-00C9A7?style=for-the-badge"/>
+</p>
 
 <div align="center">
 
@@ -345,9 +353,11 @@ color: white;
 box-shadow: 0 4px 15px rgba(0,0,0,0.2);
 ">
 
-<h3>🧠 AI Projects</h3>
-<p>
-Deep learning models focused on solving real-world problems using intelligent systems.
+<p align="center">
+  <img src="https://img.shields.io/badge/🧠_AI_Projects-8E44AD?style=for-the-badge"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🤖_Deep_learning_models_for_real--world_intelligent_systems-0EA5E9?style=for-the-badge"/>
 </p>
 
 </div>
@@ -364,7 +374,9 @@ color: black;
 box-shadow: 0 4px 15px rgba(0,0,0,0.2);
 ">
 
-<h3>🎨 Frontend Work</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/🎨_Frontend_Work-FF7E5F?style=for-the-badge"/>
+</p>
 <p>
 Modern UI/UX designs with responsive and user-friendly web interfaces.
 </p>
@@ -383,9 +395,11 @@ color: white;
 box-shadow: 0 4px 15px rgba(0,0,0,0.2);
 ">
 
-<h3>🌐 Full Stack</h3>
-<p>
-Building scalable, production-ready full-stack applications with modern tech.
+<p align="center">
+  <img src="https://img.shields.io/badge/🌐_Full_Stack-4CAF50?style=for-the-badge"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/💻_Building_scalable_production--ready_full--stack_apps-16A34A?style=for-the-badge"/>
 </p>
 
 </div>
@@ -399,10 +413,14 @@ Building scalable, production-ready full-stack applications with modern tech.
 <br/>
 
 <!-- 🚀 Premium Closing -->
-<h2 align="center">🚀 Beyond Code</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀_Beyond_Code-FF4D4D?style=for-the-badge"/>
+</p>
 
 <p align="center">
-  <i>"I don't just build projects — I build systems that make an impact."</i>
+  <p align="center">
+  <img src="https://img.shields.io/badge/💬_I_don't_just_build_projects_—_I_build_systems_that_make_an_impact.-1D976C?style=for-the-badge"/>
+</p>
 </p>
 <!-- 💡 Developer Quote -->
 
@@ -412,14 +430,18 @@ Building scalable, production-ready full-stack applications with modern tech.
 
 <br/>
 <p align="center">
-  <i>"Always evolving. Always building."</i>
+ <p align="center">
+  <img src="https://img.shields.io/badge/💬_Always_evolving._Always_building.-FF6F61?style=for-the-badge"/>
+</p>
 </p>
 
 <!-- 🙏 Footer -->
 <div align="center" style="background:#0d1117; padding:20px; border-radius:12px; width:60%; margin:auto; color:#58a6ff; border:1px solid #30363d; box-shadow:0 0 20px rgba(88,166,255,0.4);">
 
 <!-- 💡 Developer Quote -->
-<h2 align="center">💡 Developer Quote</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/💡_Developer_Quote-F59E0B?style=for-the-badge"/>
+</p>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" />
