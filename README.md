@@ -111,7 +111,6 @@ Software Developer & AI Enthusiast<br>
   <img src="https://img.shields.io/badge/🔥_LeetCode_Max_Streak-29_days-FF1744?style=for-the-badge&labelColor=2E003E"/>
 </p>
 ## LeetCode Progress & Stats 
- 
  [![💻 LeetCode Progress & Stats](https://leetcard.jacoblin.cool/Deepak_653?theme=dark&font=baloo&ext=contest)]
 <h2 align="center">Programming Love❤️❤️</h2
 
@@ -133,7 +132,6 @@ Software Developer & AI Enthusiast<br>
 
 <!-- 📊 GitHub Stats Card -->
 <h2 align="center">📊 GitHub Insights</h2>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Deepakchaurasiya2309&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
