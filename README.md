@@ -110,9 +110,9 @@ Software Developer & AI Enthusiast<br>
 <p align="center">
   <img src="https://img.shields.io/badge/🔥_LeetCode_Max_Streak-34_days-FF1744?style=for-the-badge&labelColor=2E003E"/>
 </p>
-## LeetCode Progress & Stats 
+## LeetCode Progress & Stats
 
- [![💻 LeetCode Progress & Stats](https://leetcard.jacoblin.cool/Deepak_653?theme=dark&font=baloo&ext=contest)]
+![💻 LeetCode Progress & Stats](https://leetcard.jacoblin.cool/eepak_653?theme=dark&font=Karma&ext=contest)
 <h2 align="center">Programming Love❤️❤️</h2
 
 <p align="center">
