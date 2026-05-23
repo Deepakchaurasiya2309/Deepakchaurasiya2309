@@ -112,7 +112,7 @@ Software Developer & AI Enthusiast<br>
 </p>
 # LeetCode Progress & Stats
 
-![💻 LeetCode Progress & Stats](https://leetcard.jacoblin.cool/Deepak_653?theme=github&font=Karma&ext=contest)
+![💻 LeetCode Progress & Stats](https://leetcard.jacoblin.cool/Deepak_653?theme=beach&font=Karma&ext=contest)
 
 ## 🏆 LeetCode Badges
 
