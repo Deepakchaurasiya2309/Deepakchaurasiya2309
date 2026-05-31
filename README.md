@@ -117,7 +117,7 @@ Software Developer & AI Enthusiast<br>
 ## 🏆 LeetCode Badges
 
 <p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Deepak_653&theme=beach" alt="LeetCode Badges" />
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Deepak_653&theme=beach" alt="LeetCode Badges" )
 </p>
 
 <h2 align="center">Programming Love❤️❤️</h2
