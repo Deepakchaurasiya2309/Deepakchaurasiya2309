@@ -118,6 +118,14 @@ Software Developer & AI Enthusiast<br>
 
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Deepak_653&theme=beach&animated=true)
 
+<div style="display: flex; gap: 15px;">
+
+<img src="https://leetcard.jacoblin.cool/Deepak_653?theme=dark" height="120"/>
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Deepak_653&theme=beach" height="120"/>
+
+</div>
+
 <h2 align="center">Programming Love❤️❤️</h2
 
 <p align="center">
