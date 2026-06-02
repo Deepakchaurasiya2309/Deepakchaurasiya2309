@@ -108,7 +108,7 @@ Software Developer & AI Enthusiast<br>
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/🔥_LeetCode_Max_Streak-48_days-FF1744?style=for-the-badge&labelColor=2E003E"/>
+  <img src="https://img.shields.io/badge/🔥_LeetCode_Max_Streak-49_days-FF1744?style=for-the-badge&labelColor=2E003E"/>
 </p>
 # LeetCode Progress & Stats
 
