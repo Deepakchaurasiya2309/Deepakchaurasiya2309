@@ -152,16 +152,7 @@ Software Developer & AI Enthusiast<br>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Deepakchaurasiya2309&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepakchaurasiya2309" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepakchaurasiya2309" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepakchaurasiya2309&theme=tokyonight" />
 
 <!-- 🚀 Latest Work Card -->
 <p align="center">
