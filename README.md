@@ -455,7 +455,7 @@ box-shadow: 0 4px 15px rgba(0,0,0,0.2);
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Deepakchaurasiya2309&theme=darkhub&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Deepakchaurasiya2309&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div align="center">
 
