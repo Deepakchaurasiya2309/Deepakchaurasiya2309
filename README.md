@@ -137,16 +137,20 @@ Software Developer & AI Enthusiast<br>
 
 <hr/>
 
-<!-- 📊 GitHub Stats Card -->
 <h2 align="center">📊 GitHub Insights</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepakchaurasiya2309&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepakchaurasiya2309&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepakchaurasiya2309&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepakchaurasiya2309&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepakchaurasiya2309&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Deepakchaurasiya2309&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 <!-- 🚀 Latest Work Card -->
@@ -457,7 +461,6 @@ box-shadow: 0 4px 15px rgba(0,0,0,0.2);
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Deepakchaurasiya2309&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div align="center">
 
